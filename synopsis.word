@@ -1,0 +1,19 @@
+Public Area
+-----------
+Site Pages
+    - Navigation
+    - Page content
+    - Read only
+
+
+Admin Area
+------------------------
+Login Page              |
+    - Form              |
+    - Username          |
+    - Password
+
+Admin Menu
+    - Manage content
+    - Manage admins
+    - Logout
